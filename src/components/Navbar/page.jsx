@@ -1,7 +1,6 @@
-"use client";
-// import { IoMailOutline } from "react-icons/io5";
+
 import React from "react";
-import { BsPhone } from "react-icons/bs";
+
 import Image from "next/image";
 import Link from "next/link";
 import {
@@ -34,13 +33,13 @@ export default function NavBar() {
         <div className="flex flex-col md:flex-row items-center mt-4 md:mt-0">
           <div className="flex items-center mb-2 md:mb-0 mr-8">
             <span className="text-green-500">
-              <BsPhone />
+              {/* <BsPhone /> */} Phone:
             </span>
             <span className="text-green-600 ml-2 text-sm font-light">+910000000000</span>
           </div>
           <div className="flex items-center">
             <span className="text-green-500">
-              {/* <IoMailOutline /> */}
+              {/* <IoMailOutline /> */} Mail:
             </span>
             <span className="text-green-600 ml-5 text-md font-light">demo@gmail.com</span>
           </div>
