@@ -1,6 +1,11 @@
+
+
 import { Inter } from "next/font/google";
 import "./globals.css";
-
+import Navbar from "../components/Navbar/page";
+import NaviBar from "../components/Navbar/page";
+import Image from "next/image";
+import './styles.css'
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
@@ -11,7 +16,17 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+     
+      <Image     src="/Group1.svg" 
+          alt="Group SVG" 
+          width={550} 
+          height={300}
+         className="float-right  " />
+       
+    <div className=" "></div>
+        <Navbar/> 
+        {children}</body>
     </html>
   );
 }
