@@ -61,10 +61,11 @@ Ensure you have the following installed:
 if you have any questions or feedback, please feel free to contact me at abhip15012@gmail.com
 
 
+![Screenshot 2024-07-21 163258](https://github.com/user-attachments/assets/73b80a27-9b55-48b6-8516-acab285f7bc2)
+
+
 ![Screenshot 2024-07-21 163415](https://github.com/user-attachments/assets/87227eb2-016f-4ace-84e8-6a145406be01)
 
-
-![Screenshot 2024-07-21 163558](https://github.com/user-attachments/assets/3fba3a23-cdef-4782-aa84-97679a6d4b9e)
 ![Screenshot 2024-07-21 163345](https://github.com/user-attachments/assets/c9ce772b-f0b8-46e4-960c-89f4bc3c7bcf)
 ![Screenshot 2024-07-21 163615](https://github.com/user-attachments/assets/4af20a4c-78d8-47b1-834c-d08a8796609a)
 
